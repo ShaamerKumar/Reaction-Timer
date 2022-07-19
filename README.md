@@ -1,4 +1,4 @@
-# reaction-timerproj
+# First Practice with an application: Reaction-Timer, with the help of NETNINJA tutorials
 
 ## Project setup
 ```
